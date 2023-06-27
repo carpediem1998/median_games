@@ -1,0 +1,10 @@
+{
+    "program": "median_games.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpHxgqMA76aqXgAiV6VPMsqoSfYy12SyKyu7vcQicxZCLT",
+        "address": "aleo1d3dt3cctnhhuq3lqp7wxfmx8tkqun43cqmpn75pjur0sv5hdug9s0qmjxj"
+    },
+    "license": "MIT"
+}
